@@ -1,2 +1,6 @@
 # PPCAD14
-This is the first training for git hub
+<hr>Thsis is the official project </hr>
+<Ul>
+Feature 1
+Feature 2
+</Ul>
